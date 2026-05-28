@@ -1,0 +1,319 @@
+# Greek translation for Weather Food Suggestion
+# Copyright (C) 2026 Spooncloud
+msgid ""
+msgstr ""
+"Project-Id-Version: Weather Food Suggestion 1.0.0\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Finding your perfect meal…"
+msgstr "Βρίσκουμε το ιδανικό γεύμα…"
+
+msgid "Something went wrong. Please try again."
+msgstr "Κάτι πήγε στραβά. Δοκιμάστε ξανά."
+
+msgid "Location permission was denied. Enter a city instead."
+msgstr "Η τοποθεσία δεν επιτράπηκε. Εισάγετε μια πόλη."
+
+msgid "Could not detect your location. Enter a city instead."
+msgstr "Δεν βρέθηκε η τοποθεσία σας. Εισάγετε μια πόλη."
+
+msgid "Location request timed out. Try again or enter a city."
+msgstr "Έληξε ο χρόνος αναμονής. Δοκιμάστε ξανά ή βάλτε πόλη."
+
+msgid "Please enter a city or use your current location."
+msgstr "Εισάγετε πόλη ή χρησιμοποιήστε την τρέχουσα τοποθεσία."
+
+msgid "Current weather"
+msgstr "Τρέχων καιρός"
+
+msgid "No direct matches from your list — see optional extras."
+msgstr "Δεν ταιριάζουν υλικά από τη λίστα σας — δείτε τα προαιρετικά."
+
+msgid "Weather Food Suggestion"
+msgstr "Πρόταση φαγητού ανάλογα με τον καιρό"
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "Weather cache TTL (seconds)"
+msgstr "Διάρκεια cache καιρού (δευτερόλεπτα)"
+
+msgid "Default dietary preference"
+msgstr "Προεπιλεγμένη διατροφική προτίμηση"
+
+msgid "Default meal type"
+msgstr "Προεπιλεγμένος τύπος γεύματος"
+
+msgid "Enable geolocation button"
+msgstr "Κουμπί γεωτοποθεσίας"
+
+msgid "Hot temperature threshold (°C)"
+msgstr "Όριο ζέστης (°C)"
+
+msgid "Warm temperature threshold (°C)"
+msgstr "Όριο ζεστού καιρού (°C)"
+
+msgid "Mild temperature threshold (°C)"
+msgstr "Όριο ήπιου καιρού (°C)"
+
+msgid "Wind speed threshold (km/h)"
+msgstr "Όριο ταχύτητας ανέμου (km/h)"
+
+msgid "Wind rule max temperature (°C)"
+msgstr "Μέγ. θερμοκρασία κανόνα ανέμου (°C)"
+
+msgid "Precipitation threshold (mm)"
+msgstr "Όριο βροχόπτωσης (mm)"
+
+msgid "Custom CSS (scoped to .wfs-wrap)"
+msgstr "Προσαρμοσμένο CSS (μόνο .wfs-wrap)"
+
+msgid "Auto (time of day)"
+msgstr "Αυτόματα (ώρα)"
+
+msgid "Show “Use my current location” button"
+msgstr "Εμφάνιση κουμπιού «Χρήση τρέχουσας τοποθεσίας»"
+
+msgid "Configure defaults and weather thresholds for the suggestion engine. No user location or fridge data is stored."
+msgstr "Ρυθμίσεις προεπιλογών και ορίων καιρού. Δεν αποθηκεύονται τοποθεσία ή υλικά ψυγείου."
+
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+msgid "Widget title"
+msgstr "Τίτλος widget"
+
+msgid "Show geolocation button"
+msgstr "Κουμπί γεωτοποθεσίας"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "Submit button label"
+msgstr "Κείμενο κουμπιού υποβολής"
+
+msgid "Suggest Food"
+msgstr "Πρόταση φαγητού"
+
+msgid "Tell us where you are and what is in your fridge — we will suggest something that fits the weather."
+msgstr "Πείτε μας πού είστε και τι έχετε στο ψυγείο — θα προτείνουμε κάτι που ταιριάζει στον καιρό."
+
+msgid "Preview: submit the form on the live site to see weather-based suggestions."
+msgstr "Προεπισκόπηση: υποβάλετε τη φόρμα στο live site για αποτελέσματα."
+
+msgid "City / location"
+msgstr "Πόλη / τοποθεσία"
+
+msgid "e.g. Berlin, London"
+msgstr "π.χ. Αθήνα, Θεσσαλονίκη"
+
+msgid "Use my current location"
+msgstr "Χρήση τρέχουσας τοποθεσίας"
+
+msgid "What is in your fridge?"
+msgstr "Τι έχετε στο ψυγείο;"
+
+msgid "tomato, eggs, spinach (comma or line separated)"
+msgstr "ντομάτα, αυγά, σπανάκι (με κόμμα ή νέα γραμμή)"
+
+msgid "Dietary preference"
+msgstr "Διατροφική προτίμηση"
+
+msgid "Meal type"
+msgstr "Τύπος γεύματος"
+
+msgid "From your fridge"
+msgstr "Από το ψυγείο σας"
+
+msgid "Optional extras"
+msgstr "Προαιρετικά υλικά"
+
+msgid "Preparation"
+msgstr "Εκτέλεση"
+
+msgid "No preference"
+msgstr "Χωρίς προτίμηση"
+
+msgid "Vegetarian"
+msgstr "Χορτοφαγικό"
+
+msgid "Vegan"
+msgstr "Vegan"
+
+msgid "High protein"
+msgstr "Υψηλή πρωτεΐνη"
+
+msgid "Light meal"
+msgstr "Ελαφρύ γεύμα"
+
+msgid "Comfort food"
+msgstr "Comfort food"
+
+msgid "Breakfast"
+msgstr "Πρωινό"
+
+msgid "Lunch"
+msgstr "Μεσημεριανό"
+
+msgid "Dinner"
+msgstr "Βραδινό"
+
+msgid "Snack"
+msgstr "Σνακ"
+
+msgid "Invalid security token. Please refresh the page."
+msgstr "Μη έγκυρο token ασφαλείας. Ανανεώστε τη σελίδα."
+
+msgid "Your location (%.2f, %.2f)"
+msgstr "Η τοποθεσία σας (%.2f, %.2f)"
+
+msgid "It's %1$d°C in %2$s."
+msgstr "Είναι %1$d°C στην %2$s."
+
+msgid "It's %d°C where you are."
+msgstr "Είναι %d°C εκεί που είστε."
+
+msgid "Rainy or snowy weather pairs well with comforting, warming dishes."
+msgstr "Βροχή ή χιόνι ταιριάζουν με ζεστά, άνετα πιάτα."
+
+msgid "Hot weather calls for lighter, refreshing meals."
+msgstr "Ζέστη σημαίνει ελαφρά, δροσερά γεύματα."
+
+msgid "Cold weather is perfect for warm, satisfying food."
+msgstr "Κρύος καιρός θέλει ζεστό, χορταστικό φαγητό."
+
+msgid "Clear skies are great for fresh, vibrant flavors."
+msgstr "Καθαρός ουρανός — φρέσκες, ζωντανές γεύσεις."
+
+msgid "Windy conditions suggest something hearty and energizing."
+msgstr "Άνεμος — κάτι πιο χορταστικό και ενεργειακό."
+
+msgid "We prioritized your %s."
+msgstr "Δώσαμε προτεραιότητα στα: %s."
+
+msgid "None of your listed items matched closely; here is the best weather-fit suggestion."
+msgstr "Κανένα υλικό δεν ταίριαξε από κοντά· ορίστε η καλύτερη πρόταση για τον καιρό."
+
+msgid "vegetarian"
+msgstr "χορτοφαγικό"
+
+msgid "vegan"
+msgstr "vegan"
+
+msgid "high-protein"
+msgstr "υψηλής πρωτεΐνης"
+
+msgid "light"
+msgstr "ελαφρύ"
+
+msgid "comfort"
+msgstr "άνεσης"
+
+msgid "Filtered for a %s preference."
+msgstr "Φιλτράρισμα για %s προτίμηση."
+
+msgid "breakfast"
+msgstr "πρωινό"
+
+msgid "lunch"
+msgstr "μεσημεριανό"
+
+msgid "dinner"
+msgstr "βραδινό"
+
+msgid "snack"
+msgstr "σνακ"
+
+msgid "Suggested as a %s option."
+msgstr "Προτείνεται ως %s."
+
+msgid "Please enter at least 2 characters for the city name."
+msgstr "Εισάγετε τουλάχιστον 2 χαρακτήρες για την πόλη."
+
+msgid "Location not found. Try a different city name."
+msgstr "Η τοποθεσία δεν βρέθηκε. Δοκιμάστε άλλη πόλη."
+
+msgid "Could not read weather data. Please try again later."
+msgstr "Δεν διαβάστηκαν δεδομένα καιρού. Δοκιμάστε αργότερα."
+
+msgid "Weather service is temporarily unavailable."
+msgstr "Η υπηρεσία καιρού δεν είναι διαθέσιμη προσωρινά."
+
+msgid "Weather service returned an error."
+msgstr "Η υπηρεσία καιρού επέστρεψε σφάλμα."
+
+msgid "Invalid response from weather service."
+msgstr "Μη έγκυρη απάντηση από την υπηρεσία καιρού."
+
+msgid "Unknown API error."
+msgstr "Άγνωστο σφάλμα API."
+
+msgid "Clear sky"
+msgstr "Καθαρός ουρανός"
+
+msgid "Mainly clear"
+msgstr "Σχεδόν καθαρός"
+
+msgid "Partly cloudy"
+msgstr "Μερικής νεφοκάλυψης"
+
+msgid "Overcast"
+msgstr "Συννεφιά"
+
+msgid "Foggy"
+msgstr "Ομίχλη"
+
+msgid "Depositing rime fog"
+msgstr "Παγωμένη ομίχλη"
+
+msgid "Light drizzle"
+msgstr "Ελαφρή ψιλόβροχη"
+
+msgid "Drizzle"
+msgstr "Ψιλόβροχη"
+
+msgid "Dense drizzle"
+msgstr "Πυκνή ψιλόβροχη"
+
+msgid "Slight rain"
+msgstr "Ελαφριά βροχή"
+
+msgid "Rain"
+msgstr "Βροχή"
+
+msgid "Heavy rain"
+msgstr "Έντονη βροχή"
+
+msgid "Slight snow"
+msgstr "Ελαφρύ χιόνι"
+
+msgid "Snow"
+msgstr "Χιόνι"
+
+msgid "Heavy snow"
+msgstr "Πυκνό χιόνι"
+
+msgid "Rain showers"
+msgstr "Μπόρες"
+
+msgid "Thunderstorm"
+msgstr "Καταιγίδα"
+
+msgid "%1$s, %2$d°C"
+msgstr "%1$s, %2$d°C"
+
+msgid "precipitation"
+msgstr "βροχή"
+
+msgid "windy"
+msgstr "άνεμος"
+
+msgid "Weather Food"
+msgstr "Φαγητό & Καιρός"
